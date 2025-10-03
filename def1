@@ -1,0 +1,12 @@
+{
+    "game_title": "Стратегическая Игра",
+    "max_players": 2,
+    "starting_resources": 1000,
+    "map_size": {
+        "width": 10,
+        "height": 10
+    },
+    "difficulty": "normal",
+    "game_version": "1.0",
+    "auto_save": true
+}
